@@ -1,0 +1,19 @@
+{
+  "name": "@ethriel3695/app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Reuben Ellis",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ethriel3695/npmtutorial.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ethriel3695/npmtutorial/issues"
+  },
+  "homepage": "https://github.com/ethriel3695/npmtutorial#readme",
+  "description": ""
+}
